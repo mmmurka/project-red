@@ -24,3 +24,6 @@ all_prices = get_all_coin_prices_to_tether()
 if all_prices:
     for symbol, price in all_prices.items():
         print(f'Текущий курс {symbol}: {price}')
+
+
+#пропоную змінити назву файла на великіпіськи 
